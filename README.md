@@ -5,4 +5,7 @@ DotC Mashup Contests 2020, for CP training.
 * Strings and Arrays
 * Setters:- Ambuj, Achint, Rahul
 
+1. [Contest 2](https://vjudge.net/contest/382246)
+* Strings and Arrays
+* Setters:- Ambuj, Achint, Rahul
 
