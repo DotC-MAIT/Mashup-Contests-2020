@@ -29,3 +29,5 @@ int main(){
         cout<<solve(a)<<endl;
     }return 0;
 }
+
+//by nandeesh
