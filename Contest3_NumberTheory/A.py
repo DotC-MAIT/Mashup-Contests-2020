@@ -10,3 +10,5 @@ while k!=0:
     k=int(k/i)
     s+=k
 print (x/100.0*s)*n
+
+#by shubh

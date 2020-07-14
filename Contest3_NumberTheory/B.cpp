@@ -2,7 +2,7 @@
 using namespace std;
 using ll = long long ;
 
-int32_t main() {
+int main() {
 
     ll n;
     while (cin >> n) {
@@ -14,3 +14,5 @@ int32_t main() {
     
     return 0;
 }
+
+//by shubh

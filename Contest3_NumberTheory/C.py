@@ -7,3 +7,5 @@ if r-l>1  :
     print (l,l+1,l+2)
 else :
     print(-1)
+
+#by shubh
