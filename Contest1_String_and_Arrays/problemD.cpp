@@ -24,3 +24,5 @@ int main(){
     else cout<<s.size()-1<<endl;
     return 0;
 }
+
+//by nandeesh
