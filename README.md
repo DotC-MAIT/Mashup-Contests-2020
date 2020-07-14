@@ -9,7 +9,7 @@ DotC Mashup Contests 2020, for CP training.
 * Strings and Arrays
 * Setters:- Ambuj, Achint, Rahul
 
-2. [Contest 3](https://vjudge.net/contest/383233)
+3. [Contest 3](https://vjudge.net/contest/383233)
 * Number Theory
 * Setters:- Nandeesh, Punit, Shubh
 
