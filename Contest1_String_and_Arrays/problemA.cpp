@@ -19,3 +19,5 @@ int main(){
     cout<<minv<<endl;
     return 0;
 }
+
+//by nandeesh
