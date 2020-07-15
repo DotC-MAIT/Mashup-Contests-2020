@@ -6,11 +6,9 @@ int main() {
 
     ll n;
     while (cin >> n) {
-        if (!n)
-            break;
+        if (!n) break;
         cout << ((ceil(sqrt(n)) == floor(sqrt(n))) ? "yes\n" : "no\n" ) ;
     }
-    cout << endl ;
     
     return 0;
 }
