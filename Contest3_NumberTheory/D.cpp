@@ -10,7 +10,7 @@ int main(){
             posn[tmp]=i;
         }
         int l = posn[1], r = posn[1];
-        for(int m=1; m<=n; ++m){
+        for(int m=1; m<=n; ++m){ //for every length
             if(r-l+1 == m) cout<<1;
             else cout<<0;
             l = min(l, posn[m+1]);
